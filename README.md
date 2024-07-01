@@ -27,10 +27,10 @@ My name is Yari DeWalt 😃. I am from California and am a self-taught programme
 
 ## 📘 Projects
 Here are some of my key projects:
-- **[MySocial](https://github.com/yari-dewalt/MySocial)**: A social media platform inspired by Instagram and Twitter (now X), featuring a user-friendly front-end interface and a custom-made REST API back-end.
-- **[Logos](https://github.com/yari-dewalt/Logos)**: A CLI tool for generating diagrams, allowing programmers to outline their logic and thoughts through text files with custom grammar and syntax.
-- **[YouTube Downloader](https://github.com/yari-dewalt/YouTubeDownloader)**: A local application that organizes and manages video downloads, demonstrating my ability to create practical solutions for everyday problems.
-
+- **[Logos](https://github.com/yari-dewalt/logos)**: A CLI tool for generating diagrams, allowing programmers to outline their logic and thoughts through text files with custom grammar and syntax.
+- **[YouTube Downloader](https://github.com/yari-dewalt/youtube-downloader)**: A local application that organizes and manages video downloads, demonstrating my ability to create practical solutions for everyday problems.
+- **[MySocial](https://github.com/yari-dewalt/mysocial)**: A social media platform inspired by Instagram and Twitter (now X), featuring a user-friendly front-end interface and a custom-made REST API back-end.
+- **[ChatHub](https://github.com/yari-dewalt/chathub)**: A real-time messaging platform where one can add friends, customize their profile, and message other users.
 ## Others 🤔
 - 💬 Let's start a conversation! Contact me via <a href="https://www.linkedin.com/in/yari-dewalt/">LinkedIn</a> or <a href="mailto:yari.dewalt@gmail.com">email</a>!
 - 📫 Read my blog: [Blog](https://google.com)
